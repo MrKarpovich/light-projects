@@ -1,2 +1,14 @@
-# light-projects
-Arduino LED strip experiments: smooth gradients, color waves, and glitch-free animations for WS2812/NeoPixel.
+Всё, что связано со светодиодными лентами на Arduino.
+
+- WS2812 / NeoPixel
+- Плавные градиенты без артефактов
+- Бегущие огни, пульсация, реакция на звук
+- Оптимизация под длинные ленты (до 300+ диодов)
+
+---
+
+**Текущий сетап:**  
+Лента — WS2812, 300 диодов  
+Плата — Arduino Uno  
+Пин данных — 13  
+Питание — внешний 5V 100A блок
